@@ -25,6 +25,7 @@ main {
     flex-wrap: wrap-reverse;
     justify-content: space-between;
     height: auto;
+    position: fixed;
     padding: 20px;
     height: auto;
     background-color: #fff;
